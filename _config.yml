@@ -4,13 +4,13 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "foo" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "abc" #"http://lgtateos.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Laura Tateosian # add your name
-author-img: lgtateos04bw.jpg # add your photo
+author-img: assests/img/lgtateos04bw.jpg # add your photo
 about-author: I am an Associate Teaching Professor at North Carolina State University working at the cross-roads of computer science and geospatial analytics. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
