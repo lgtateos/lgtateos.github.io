@@ -1,4 +1,4 @@
-title: Hello, world! I'm NOT David Freeman
+title: Hello, world! I'm Laura Tateosian
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -14,9 +14,9 @@ author-img: david-freeman.jpg # add your photo
 about-author: I am an Associate Teaching Professor at North Carolina State University. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: lgtateos # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: lgtateos@ncsu.edu# add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
