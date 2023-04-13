@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spotted Lanternfly in the news
-date: 2017-09-12 13:32:20 +0300
+date: 2023-04-12 13:32:20 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: only_GDELT__2017_PA2.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
